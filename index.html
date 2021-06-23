@@ -6,8 +6,13 @@
     <title>BeautySalon</title>
     <!-- Icons -->
     <link rel="stylesheet" href="./assets/fonts/style.css">
+
+    <!-- Swiper -->
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
+
     <!-- CSS -->
     <link rel="stylesheet" href="style.css">
+
 
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -114,49 +119,55 @@
         <div class="divider-1"></div>
 
         <section class="section" id="testimonials">
-            <div class="container grid">
+            <div class="container">
                <header>
                    <h2 class="title">Depoimentos de quem já passou por aqui</h2>
                </header>
-              <div class="testimonials">
-                  <div class="testimonial">
-                      <blockquote>
-                        <p>
-                            <span>&ldquo;</span>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus repudiandae eius voluptas similique eum eos nesciunt exercitation.
-                        </p>
-                        <cite>
-                            <img src="./assets/vanusa.jpg" alt="Fato da Vanusa">
-                            Vanusa Souza
-                        </cite>
-                      </blockquote>
-                  </div>
 
-                  <div class="testimonial">
-                    <blockquote>
-                        <p>
-                            <span>&ldquo;</span>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus repudiandae eius voluptas similique eum eos nesciunt exercitation.
-                        </p>
-                        <cite>
-                            <img src="https://randomuser.me/api/portraits/men/3.jpg" alt="Foto do Daniel">
-                            Daniel Almeida
-                        </cite>
-                      </blockquote>
-                  </div>
+              <div class="testimonials swiper-container">
 
-                  <div class="testimonial">
-                    <blockquote>
-                        <p>
-                            <span>&ldquo;</span>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus repudiandae eius voluptas similique eum eos nesciunt exercitation.
-                        </p>
-                        <cite>
-                            <img src="./assets/gisele.jpg" alt="Foto da Gisele">
-                            Gisele Bonfim
-                        </cite>
-                      </blockquote>
-                  </div>
+                <div class="swiper-wrapper">
+                    <div class="testimonial swiper-slide">
+                        <blockquote>
+                            <p>
+                                <span>&ldquo;</span>
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus repudiandae eius voluptas similique eum eos nesciunt exercitation.
+                            </p>
+                            <cite>
+                                <img src="./assets/vanusa.jpg" alt="Fato da Vanusa">
+                                Vanusa Souza
+                            </cite>
+                        </blockquote>
+                    </div>
+
+                    <div class="testimonial swiper-slide">
+                        <blockquote>
+                            <p>
+                                <span>&ldquo;</span>
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus repudiandae eius voluptas similique eum eos nesciunt exercitation.
+                            </p>
+                            <cite>
+                                <img src="https://randomuser.me/api/portraits/men/3.jpg" alt="Foto do Daniel">
+                                Daniel Almeida
+                            </cite>
+                        </blockquote>
+                    </div>
+
+                    <div class="testimonial swiper-slide">
+                        <blockquote>
+                            <p>
+                                <span>&ldquo;</span>
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus repudiandae eius voluptas similique eum eos nesciunt exercitation.
+                            </p>
+                            <cite>
+                                <img src="./assets/gisele.jpg" alt="Foto da Gisele">
+                                Gisele Bonfim
+                            </cite>
+                        </blockquote>
+                    </div>
+                </div>
+
+                <div class="swiper-pagination"></div>
               </div>
             </div>
         </section>
@@ -164,6 +175,7 @@
 
     </main>
 
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
     <script src="./main.js"></script>
 </body>
 </html>

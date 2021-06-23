@@ -33,3 +33,15 @@ window.addEventListener("scroll", () => {
         header.classList.remove("scroll");
     }
 })
+
+
+// Carosel Testimonial with Swiper.js
+
+const swiper = new Swiper(".swiper-container", {
+    slidesPerView: 1,
+    pagination: {
+        el: ".swiper-pagination"
+    },
+    mousewheel: true,
+    keyboard: true
+});
