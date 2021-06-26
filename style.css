@@ -182,8 +182,7 @@ nav ul li a::after {
 
 nav ul li a:hover::after,
 nav ul li a.active::after {
-    width: 100%;
-    
+    width: 100%;    
 }
 
 nav .menu {
@@ -571,7 +570,7 @@ footer .social a:hover {
 
     nav .menu ul li a.title.active {
         font-weight: bold;
-        -webkit-font-smoothing: auto;
+        -webkit-font-smoothing: auto;        
     }
 
     nav .icon-menu {
