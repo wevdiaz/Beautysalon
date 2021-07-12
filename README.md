@@ -3,8 +3,24 @@
 <p align="center">
   <img alt="Imagem animada do funcionamento do site" src="https://github.com/wevdiaz/SampabakeryHall/blob/main/assets/img/sampabakeryHall.gif">
 </p>
+ 
 
 ***
+
+ <p align="center">  
+      <a>
+          <img src="https://img.shields.io/github/repo-size/wevdiaz/SampabakeryHall?color=B27E70">        
+      </a>  
+      <a>
+          <img src="https://img.shields.io/github/license/wevdiaz/SampabakeryHall?color=%23B27E70">         
+      </a>      
+      <a>
+          <img src="https://img.shields.io/github/languages/count/wevdiaz/SampabakeryHall?color=%23B27E70">       
+      </a>      
+      <a>          
+          <img alt="Diazz" src="https://img.shields.io/badge/made%20by-Diazz-SampabakeryHall?color=%23B27E70"> 
+      </a>      
+  </p> 
 
 <p align="center">
     <a href="#speech_balloon-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
