@@ -30,7 +30,7 @@
 </p>
 
  ### :speech_balloon: Sobre
- Olá, mais um projeto sendo realizado na maratona de desenvolvimento da NLW, dessa vez eu quis fazer junto com Discover a trilha Origin para fortalecer os conceitos básicos e vê o que há de novo sendo utilizado no mercado. A aplicação da página do site é desenvolvida de maneira dinâmica e com layout responsivo para diferentes tipos de tela, além de poder trocar as cores com facilidade, devido a variável base criada no CSS. Para o carrosel foi utilizado uma biblioteca nova para mim chamada Swiper js. A idéia do projeto é uma página comercial de uma padaria tradicional, mas com toques modernos.
+ Olá, mais um projeto sendo realizado na maratona de desenvolvimento da NLW, dessa vez eu quis fazer junto com Discover a trilha Origin para fortalecer os conceitos básicos e vê o que há de novo sendo utilizado no mercado. A aplicação da página do site é desenvolvida de maneira dinâmica e com layout responsivo para diferentes tipos de tela, além de poder trocar as cores com facilidade, devido a variável base criada no CSS. Para o carrosel foi utilizado uma biblioteca nova para mim chamada Swiper js. A idéia do projeto é uma página comercial de uma padaria tradicional, mas com toques modernos. [veja aqui](https://wevdiaz.github.io/SampabakeryHall/#home)
  
  ### :hammer_and_wrench: Tecnologias
  
